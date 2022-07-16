@@ -107,4 +107,11 @@
         display: flex;
         align-items: center;
      }
+     .pagination-item__link {
+        font-size: 1.6rem;
+        min-width: 34px;
+     }
+     .pagination-item {
+        margin: 0;
+     }
 }
